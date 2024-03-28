@@ -81,10 +81,10 @@ Stop
 
 ### screenshot
 
-![details](photos/ביצוע מחיקה.png)
-![details](photos/טופס הרשמה לחבר חדש.png)
-![details](photos/לא מאפשר הוספת חבר בשל שדה שחסר.png)
-![details](photos/לא מאפשר עדכון בשל שדה שחסר.png)
-![details](photos/מציג את כל החברים בקופה.png)  
-![details](photos/מציג נתוני קורונה לחודש הנוכחי.png)  
-![details](photos/מציג פרטי חבר.png)  
+![details](photos/deleting.png)
+![details](photos/new_member_registration_form.png)
+![details](photos/does_not_allow_adding_a_member_missing_field.png)
+![details](photos/cannot_be_updated_missing_field.png)
+![details](photos/מציג_את_כל_החברים_בקופה.png)  
+![details](photos/מציג_נתוני_קורונה_לחודש_הנוכחי.png)  
+![details](photos/מציג_פרטי_חבר.png)  
