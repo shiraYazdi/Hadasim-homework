@@ -80,7 +80,7 @@ const UpdateMember = () => {
          <form onSubmit={handleSubmit(updateMember)} style={{ direction: "rtl", marginTop: "2%", marginRight: "25%" }}>
             <TextField label="*שם פרטי" type="text" defaultValue={member.firstName}  {...register("firstName")} style={{ marginLeft: "1%" }} />
             <TextField label="*שם משפחה" type="text" defaultValue={member.lastName}  {...register("lastName")} />
-            <TextField label="*מספר זהות" type="text" defaultValue={member.id} {...register("id")} style={{ marginRight: "1%" }} />
+            <TextField label="*מספר זהות" type="text" defaultValue={member.id} InputProps={{readOnly: true,}} {...register("id")} style={{ marginRight: "1%" }} />
             <div style={{ display: 'flex' }}>
                 {errors.firstName && <Alert style={{ maxWidth: "17%", marginTop: "0.5%", marginLeft: "1%" }} variant="filled" severity="error"> {errors.firstName.message}</Alert>}
                 {errors.lastName && <Alert style={{ maxWidth: "17%", marginTop: "0.5%", marginLeft: "1%" }} variant="filled" severity="error"> {errors.lastName.message}</Alert>}
