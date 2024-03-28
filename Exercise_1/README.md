@@ -81,10 +81,10 @@ Stop
 
 ### screenshot
 
-![details](photos/deleting.png)
-![details](photos/new_member_registration_form.png)
-![details](photos/does_not_allow_adding_a_member_missing_field.png)
-![details](photos/cannot_be_updated_missing_field.png)
-![details](photos/מציג_את_כל_החברים_בקופה.png)  
-![details](photos/מציג_נתוני_קורונה_לחודש_הנוכחי.png)  
-![details](photos/מציג_פרטי_חבר.png)  
+![details](photos/displays_corona_data_for_the_current_month.png)
+![details](photos/does_not_allow_adding_a_member_due_to_a_missing_field.png)
+![details](photos/does_not_allow_updating_due_to_a_missing_field.png)
+![details](photos/making_a_deletion.png)
+![details](photos/registration_form_for_a_new_member.png)  
+![details](photos/shows_all_the_members_of_the_HMO.png)  
+![details](photos/shows_member_details.png)  
