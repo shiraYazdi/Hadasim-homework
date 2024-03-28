@@ -81,10 +81,10 @@ Stop
 
 ### screenshot
 
-![details](./photos/ביצוע מחיקה.png)
-![details](./photos/טופס הרשמה לחבר חדש.png)
-![details](./photos/לא מאפשר הוספת חבר בשל שדה שחסר.png)
-![details](./photos/לא מאפשר עדכון בשל שדה שחסר.png)
-![details](./photos/מציג את כל החברים בקופה.png)  
-![details](./photos/מציג נתוני קורונה לחודש הנוכחי.png)  
-![details](./photos/מציג פרטי חבר.png)  
+![details](photos/ביצוע מחיקה.png)
+![details](photos/טופס הרשמה לחבר חדש.png)
+![details](photos/לא מאפשר הוספת חבר בשל שדה שחסר.png)
+![details](photos/לא מאפשר עדכון בשל שדה שחסר.png)
+![details](photos/מציג את כל החברים בקופה.png)  
+![details](photos/מציג נתוני קורונה לחודש הנוכחי.png)  
+![details](photos/מציג פרטי חבר.png)  
